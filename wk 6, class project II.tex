@@ -3,6 +3,7 @@
 \usepackage{pgfplotstable}
 \pgfplotsset{compat=1.17}
 \pagenumbering{gobble}
+
 \begin{document}
 	\begin{table}[h!]
 		\begin{center}
@@ -19,7 +20,8 @@
 			display columns/4/.style{column name=$nationality$,
 			column type=|c|, string type},
 			display columns/5/.style{column name=$painting$,
-			column type=|c|, string type}]{artists.csv}
+			column type=|c|, string type}]{artists.csv}\\
+		
 			
 		\end{center}
 	\end{table}
