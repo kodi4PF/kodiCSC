@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{pgfplotstable}
+\pgfplotsset{compat=1.17}
+\pagenumbering{gobble}
+\begin{document}
+	\begin{table}[h!]
+		\begin{center}
+			\caption{50 most influential artists of all time}
+			\pgfplotstabletypeset[col sep=comma,
+			display columns/0/.style{column name=$number$,
+			column type=|c|, string type},
+			display columns/1/.style{column name=$name$,
+			column type=|c|,string type},
+			display columns/2/.style{column name=$years$,
+			column type=|c|, string type},
+			display columns/3/.style{column name=$genre$,
+			column type=|c|, string type},
+			display columns/4/.style{column name=$nationality$,
+			column type=|c|, string type},
+			display columns/5/.style{column name=$painting$,
+			column type=|c|, string type}]{artists.csv}
+			
+		\end{center}
+	\end{table}
+\end{document}

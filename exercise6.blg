@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: exercise6.aux
+The style file: ieeetr.bst
+Database file #1: myBib.bib
+I was expecting a `,' or a `}'---line 4 of file myBib.bib
+ : 
+ : journal={Fusion Engineering and Design},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 16 of file myBib.bib
+ : 
+ : pages={922--929},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 23 of file myBib.bib
+ : 
+ : booktitle={2019 II workshop on metrology for industry 4.0 and IoT(MetroInd4. 0\&IoT)},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 43 of file myBib.bib
+ : 
+ : year={2020}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 49 of file myBib.bib
+ : booktitle
+ :          {Resilience and Sustainable Transportation Systems},
+I'm skipping whatever remains of this entry
+Warning--empty journal in gu2020study
+Warning--empty year in gu2020study
+Warning--empty year in maresca2019evaluation
+Warning--empty booktitle in hall2019opportunity
+Warning--empty year in hall2019opportunity
+Warning--empty year in kuster2020measurement
+Warning--empty booktitle in peng2020inertial
+Warning--empty year in peng2020inertial
+You've used 6 entries,
+            1876 wiz_defined-function locations,
+            505 strings with 4564 characters,
+and the built_in function-call counts, 1441 in all, are:
+= -- 109
+> -- 75
+< -- 0
++ -- 28
+- -- 22
+* -- 116
+:= -- 215
+add.period$ -- 3
+call.type$ -- 6
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 80
+empty$ -- 146
+format.name$ -- 22
+if$ -- 326
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 21
+num.names$ -- 6
+pop$ -- 40
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 36
+stack$ -- 0
+substring$ -- 64
+swap$ -- 19
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 12
+width$ -- 7
+write$ -- 47
+(There were 5 error messages)

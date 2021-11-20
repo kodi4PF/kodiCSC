@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: classprojectII.aux
+The style file: ieeetr.bst
+Database file #1: daBib.bib
+I was expecting a `,' or a `}'---line 4 of file daBib.bib
+ : 
+ : journal={GST 108},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 14 of file daBib.bib
+ :  
+ :  booktitle={Statistics-In-Depth},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in grace2020
+Warning--empty year in grace2020
+Warning--empty journal in grace2021study
+Warning--empty year in grace2021study
+You've used 2 entries,
+            1876 wiz_defined-function locations,
+            483 strings with 3790 characters,
+and the built_in function-call counts, 294 in all, are:
+= -- 16
+> -- 8
+< -- 0
++ -- 4
+- -- 2
+* -- 20
+:= -- 49
+add.period$ -- 0
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 21
+empty$ -- 40
+format.name$ -- 2
+if$ -- 62
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 9
+num.names$ -- 2
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 4
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 2
+width$ -- 3
+write$ -- 14
+(There were 2 error messages)

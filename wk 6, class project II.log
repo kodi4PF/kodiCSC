@@ -1,0 +1,1772 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.13)  20 NOV 2021 08:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"wk 6, class project II.tex"
+(./wk 6, class project II.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count187
+\@cmidlb=\count188
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count189
+\@lastruleclass=\count190
+\@thisrulewidth=\dimen151
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgfplots/pgfplotstable.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplotstable 2020/02/29 v1.17 Table typesetting and Pretty-printing (
+1.17)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen154
+\pgfutil@tempdimb=\dimen155
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box47
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen156
+\pgf@y=\dimen157
+\pgf@xa=\dimen158
+\pgf@ya=\dimen159
+\pgf@xb=\dimen160
+\pgf@yb=\dimen161
+\pgf@xc=\dimen162
+\pgf@yc=\dimen163
+\pgf@xd=\dimen164
+\pgf@yd=\dimen165
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count191
+\c@pgf@countb=\count192
+\c@pgf@countc=\count193
+\c@pgf@countd=\count194
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count195
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count196
+\pgfsyssoftpath@bigbuffer@items=\count197
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen166
+\pgfmath@count=\count198
+\pgfmath@box=\box48
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count199
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen167
+\pgf@picmaxx=\dimen168
+\pgf@picminy=\dimen169
+\pgf@picmaxy=\dimen170
+\pgf@pathminx=\dimen171
+\pgf@pathmaxx=\dimen172
+\pgf@pathminy=\dimen173
+\pgf@pathmaxy=\dimen174
+\pgf@xx=\dimen175
+\pgf@xy=\dimen176
+\pgf@yx=\dimen177
+\pgf@yy=\dimen178
+\pgf@zx=\dimen179
+\pgf@zy=\dimen180
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen181
+\pgf@path@lasty=\dimen182
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen183
+\pgf@shorten@start@additional=\dimen184
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count266
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen185
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen186
+\pgf@pt@y=\dimen187
+\pgf@pt@temp=\dimen188
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen189
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen190
+\pgf@sys@shading@range@num=\count267
+\pgf@shadingcount=\count268
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box52
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box53
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen191
+\pgf@nodesepend=\dimen192
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen193
+\pgffor@skip=\dimen194
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count269
+\pgfplotmarksize=\dimen195
+)
+\tikz@lastx=\dimen196
+\tikz@lasty=\dimen197
+\tikz@lastxsaved=\dimen198
+\tikz@lastysaved=\dimen199
+\tikz@lastmovetox=\dimen256
+\tikz@lastmovetoy=\dimen257
+\tikzleveldistance=\dimen258
+\tikzsiblingdistance=\dimen259
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count270
+\tikznumberofchildren=\count271
+\tikznumberofcurrentchild=\count272
+\tikz@fig@count=\count273
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count274
+\pgfmatrixcurrentcolumn=\count275
+\pgf@matrix@numberofcolumns=\count276
+)
+\tikz@expandcount=\count277
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks28
+\t@pgfplots@tokb=\toks29
+\t@pgfplots@tokc=\toks30
+\pgfplots@tmpa=\dimen260
+\c@pgfplots@coordindex=\count278
+\c@pgfplots@scanlineindex=\count279
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
+.code.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
+ode.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_loader.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
+.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructure.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructureext.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+array.code.tex
+\c@pgfplotsarray@tmp=\count280
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+matrix.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+shared.code.tex
+\c@pgfplotstable@counta=\count281
+\t@pgfplotstable@a=\toks31
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+deque.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
+de.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
+ta.code.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
+s.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count282
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-pdftex.def)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
+code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
+e.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
+ode.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
+ode.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
+r.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
+code.tex)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
+tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
+g.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
+e.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
+tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
+x)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
+\pgfdecoratedcompleteddistance=\dimen261
+\pgfdecoratedremainingdistance=\dimen262
+\pgfdecoratedinputsegmentcompleteddistance=\dimen263
+\pgfdecoratedinputsegmentremainingdistance=\dimen264
+\pgf@decorate@distancetomove=\dimen265
+\pgf@decorate@repeatstate=\count283
+\pgfdecorationsegmentamplitude=\dimen266
+\pgfdecorationsegmentlength=\dimen267
+)
+\tikz@lib@dec@box=\box58
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count284
+\pgfplots@xmin@reg=\dimen268
+\pgfplots@xmax@reg=\dimen269
+\pgfplots@ymin@reg=\dimen270
+\pgfplots@ymax@reg=\dimen271
+\pgfplots@zmin@reg=\dimen272
+\pgfplots@zmax@reg=\dimen273
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
+File: pgflibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+.coltype.code.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen274
+\ar@mcellbox=\box59
+\extrarowheight=\dimen275
+\NC@list=\toks32
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box60
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count285
+\l__pdf_internal_box=\box61
+)
+(./wk 6, class project II.aux)
+\openout1 = `"wk 6, class project II.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen276
+\scratchbox=\box62
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen277
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks34
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.17}).
+
+
+! Package pgfkeys Error: I do not know the key '/pgfplots/table/display columns
+/0/.style{column name=$number$, column type=|c|, string type}' and I am going t
+o ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 			column type=|c|, string type}]
+                                      {artists.csv}
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+! Package pgfkeys Error: I do not know the key '/pgfplots/table/display columns
+/1/.style{column name=$name$, column type=|c|,string type}' and I am going to i
+gnore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 			column type=|c|, string type}]
+                                      {artists.csv}
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/pgfplots/table/display columns
+/2/.style{column name=$years$, column type=|c|, string type}' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 			column type=|c|, string type}]
+                                      {artists.csv}
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/pgfplots/table/display columns
+/3/.style{column name=$genre$, column type=|c|, string type}' and I am going to
+ ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 			column type=|c|, string type}]
+                                      {artists.csv}
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/pgfplots/table/display columns
+/4/.style{column name=$nationality$, column type=|c|, string type}' and I am go
+ing to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 			column type=|c|, string type}]
+                                      {artists.csv}
+(That was another \errmessage.)
+
+
+! Package pgfkeys Error: I do not know the key '/pgfplots/table/display columns
+/5/.style{column name=$painting$, column type=|c|, string type}' and I am going
+ to ignore it. Perhaps you misspelled it.
+
+See the pgfkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 			column type=|c|, string type}]
+                                      {artists.csv}
+(That was another \errmessage.)
+
+PGFPlots: reading {artists.csv}
+
+Package pgfplots Warning: Table 'artists.csv' has an empty column name; replaci
+ng it by '6'' on input line 22.
+
+ [warning /pgfplots/warning/empty column name]
+
+! Package PGF Math Error: Could not parse input 'Amedeo Modigliani' as a floati
+ng point number, sorry. The unreadable part was near 'Amedeo Modigliani'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Vasiliy Kandinskiy' as a float
+ing point number, sorry. The unreadable part was near 'Vasiliy Kandinskiy'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Diego Rivera' as a floating po
+int number, sorry. The unreadable part was near 'Diego Rivera'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Claude Monet' as a floating po
+int number, sorry. The unreadable part was near 'Claude Monet'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Rene Magritte' as a floating p
+oint number, sorry. The unreadable part was near 'Rene Magritte'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Salvador Dali' as a floating p
+oint number, sorry. The unreadable part was near 'Salvador Dali'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Edouard Manet' as a floating p
+oint number, sorry. The unreadable part was near 'Edouard Manet'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Andrei Rublev' as a floating p
+oint number, sorry. The unreadable part was near 'Andrei Rublev'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Vincent van Gogh' as a floatin
+g point number, sorry. The unreadable part was near 'Vincent van Gogh'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Gustav Klimt' as a floating po
+int number, sorry. The unreadable part was near 'Gustav Klimt'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Hieronymus Bosch' as a floatin
+g point number, sorry. The unreadable part was near 'Hieronymus Bosch'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Kazimir Malevich' as a floatin
+g point number, sorry. The unreadable part was near 'Kazimir Malevich'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Mikhail Vrubel' as a floating 
+point number, sorry. The unreadable part was near 'Mikhail Vrubel'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Pablo Picasso' as a floating p
+oint number, sorry. The unreadable part was near 'Pablo Picasso'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Peter Paul Rubens' as a floati
+ng point number, sorry. The unreadable part was near 'Peter Paul Rubens'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Pierre-Auguste Renoir' as a fl
+oating point number, sorry. The unreadable part was near 'Pierre-Auguste Renoir
+'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Francisco Goya' as a floating 
+point number, sorry. The unreadable part was near 'Francisco Goya'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Frida Kahlo' as a floating poi
+nt number, sorry. The unreadable part was near 'Frida Kahlo'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'El Greco' as a floating point 
+number, sorry. The unreadable part was near 'El Greco'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Allbretch Dover' as a floating
+ point number, sorry. The unreadable part was near 'Allbretch Dover'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Alfred Sisley' as a floating p
+oint number, sorry. The unreadable part was near 'Alfred Sisley'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Pieter Bruegel' as a floating 
+point number, sorry. The unreadable part was near 'Pieter Bruegel'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Marc Chagall' as a floating po
+int number, sorry. The unreadable part was near 'Marc Chagall'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Giotto di Bondone' as a floati
+ng point number, sorry. The unreadable part was near 'Giotto di Bondone'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Sandro Botticelli' as a floati
+ng point number, sorry. The unreadable part was near 'Sandro Botticelli'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Caravaggio' as a floating poin
+t number, sorry. The unreadable part was near 'Caravaggio'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Leonardo da Vinci' as a floati
+ng point number, sorry. The unreadable part was near 'Leonardo da Vinci'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Diego Velazquez' as a floating
+ point number, sorry. The unreadable part was near 'Diego Velazquez'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Henri Matisse' as a floating p
+oint number, sorry. The unreadable part was near 'Henri Matisse'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Jan van Eyck' as a floating po
+int number, sorry. The unreadable part was near 'Jan van Eyck'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Edgar Degas' as a floating poi
+nt number, sorry. The unreadable part was near 'Edgar Degas'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Rembrandt' as a floating point
+ number, sorry. The unreadable part was near 'Rembrandt'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Titian' as a floating point nu
+mber, sorry. The unreadable part was near 'Titian'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Henri de Toulouse-Lautrec' as 
+a floating point number, sorry. The unreadable part was near 'Henri de Toulouse
+-Lautrec'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Gustave Courbet' as a floating
+ point number, sorry. The unreadable part was near 'Gustave Courbet'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Camille Pissarro' as a floatin
+g point number, sorry. The unreadable part was near 'Camille Pissarro'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'William Turner' as a floating 
+point number, sorry. The unreadable part was near 'William Turner'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Edvard Munch' as a floating po
+int number, sorry. The unreadable part was near 'Edvard Munch'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Paul Cezanne' as a floating po
+int number, sorry. The unreadable part was near 'Paul Cezanne'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Eugene Delacroix' as a floatin
+g point number, sorry. The unreadable part was near 'Eugene Delacroix'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Henri Rousseau' as a floating 
+point number, sorry. The unreadable part was near 'Henri Rousseau'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Georges Seurat' as a floating 
+point number, sorry. The unreadable part was near 'Georges Seurat'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Paul Klee' as a floating point
+ number, sorry. The unreadable part was near 'Paul Klee'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Piet Mondrian' as a floating p
+oint number, sorry. The unreadable part was near 'Piet Mondrian'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Joan Miro' as a floating point
+ number, sorry. The unreadable part was near 'Joan Miro'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Andy Warhol' as a floating poi
+nt number, sorry. The unreadable part was near 'Andy Warhol'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Paul Gauguin' as a floating po
+int number, sorry. The unreadable part was near 'Paul Gauguin'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Raphael' as a floating point n
+umber, sorry. The unreadable part was near 'Raphael'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Michelangelo' as a floating po
+int number, sorry. The unreadable part was near 'Michelangelo'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input 'Jackson Pollock' as a floating
+ point number, sorry. The unreadable part was near 'Jackson Pollock'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1884 - 1920' as a floating poi
+nt number, sorry. The unreadable part was near '- 1920'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1866 - 1944' as a floating poi
+nt number, sorry. The unreadable part was near '- 1944'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1886 - 1957' as a floating poi
+nt number, sorry. The unreadable part was near '- 1957'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1840 - 1926' as a floating poi
+nt number, sorry. The unreadable part was near '- 1926'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1898 - 1967' as a floating poi
+nt number, sorry. The unreadable part was near '- 1967'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1904 - 1989' as a floating poi
+nt number, sorry. The unreadable part was near '- 1989'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1832 - 1883' as a floating poi
+nt number, sorry. The unreadable part was near '- 1883'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1360 - 1430' as a floating poi
+nt number, sorry. The unreadable part was near '- 1430'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1853 - 1890' as a floating poi
+nt number, sorry. The unreadable part was near '- 1890'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1862 - 1918' as a floating poi
+nt number, sorry. The unreadable part was near '- 1918'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1450 - 1516' as a floating poi
+nt number, sorry. The unreadable part was near '- 1516'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1879 - 1935' as a floating poi
+nt number, sorry. The unreadable part was near '- 1935'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1856 - 1910' as a floating poi
+nt number, sorry. The unreadable part was near '- 1910'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1881 - 1973' as a floating poi
+nt number, sorry. The unreadable part was near '- 1973'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1577 - 1640' as a floating poi
+nt number, sorry. The unreadable part was near '- 1640'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1841 - 1919' as a floating poi
+nt number, sorry. The unreadable part was near '- 1919'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1746 - 1828' as a floating poi
+nt number, sorry. The unreadable part was near '- 1828'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1907 - 1954' as a floating poi
+nt number, sorry. The unreadable part was near '- 1954'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1541 - 1614' as a floating poi
+nt number, sorry. The unreadable part was near '- 1614'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1471 - 1528' as a floating poi
+nt number, sorry. The unreadable part was near '- 1528'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1839 - 1899' as a floating poi
+nt number, sorry. The unreadable part was near '- 1899'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1525 - 1569' as a floating poi
+nt number, sorry. The unreadable part was near '- 1569'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1887 - 1985' as a floating poi
+nt number, sorry. The unreadable part was near '- 1985'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1266 - 1337' as a floating poi
+nt number, sorry. The unreadable part was near '- 1337'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1445 - 1510' as a floating poi
+nt number, sorry. The unreadable part was near '- 1510'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1571 - 1610' as a floating poi
+nt number, sorry. The unreadable part was near '- 1610'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1452 - 1519' as a floating poi
+nt number, sorry. The unreadable part was near '- 1519'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1599 - 1660' as a floating poi
+nt number, sorry. The unreadable part was near '- 1660'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1869 - 1954' as a floating poi
+nt number, sorry. The unreadable part was near '- 1954'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1395 - 1441' as a floating poi
+nt number, sorry. The unreadable part was near '- 1441'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1834 - 1917' as a floating poi
+nt number, sorry. The unreadable part was near '- 1917'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1606 - 1669' as a floating poi
+nt number, sorry. The unreadable part was near '- 1669'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1488 - 1576' as a floating poi
+nt number, sorry. The unreadable part was near '- 1576'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1864 - 1901' as a floating poi
+nt number, sorry. The unreadable part was near '- 1901'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1819 - 1877' as a floating poi
+nt number, sorry. The unreadable part was near '- 1877'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1830 - 1903' as a floating poi
+nt number, sorry. The unreadable part was near '- 1903'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1775 - 1851' as a floating poi
+nt number, sorry. The unreadable part was near '- 1851'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1863 - 1944' as a floating poi
+nt number, sorry. The unreadable part was near '- 1944'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1839 - 1906' as a floating poi
+nt number, sorry. The unreadable part was near '- 1906'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1798 - 1863' as a floating poi
+nt number, sorry. The unreadable part was near '- 1863'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1844 - 1910' as a floating poi
+nt number, sorry. The unreadable part was near '- 1910'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1859 - 1891' as a floating poi
+nt number, sorry. The unreadable part was near '- 1891'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1879 - 1940' as a floating poi
+nt number, sorry. The unreadable part was near '- 1940'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That was another \errmessage.)
+
+
+! Package PGF Math Error: Could not parse input '1872 - 1944' as a floating poi
+nt number, sorry. The unreadable part was near '- 1944'..
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...olumn type=|c|, string type}]{artists.csv}
+                                                  
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 22077 strings out of 478994
+ 596490 string characters out of 5858183
+ 994652 words of memory out of 5000000
+ 39248 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 117i,3n,117p,746b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
