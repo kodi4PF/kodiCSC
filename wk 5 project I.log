@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.13)  21 NOV 2021 09:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.13)  21 NOV 2021 09:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"wk 6, class project II.tex"
-(./wk 6, class project II.tex
+**"wk 5 project I.tex"
+(./wk 5 project I.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -508,8 +508,8 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count286
 \l__pdf_internal_box=\box61
 )
-(./wk 6, class project II.aux)
-\openout1 = `"wk 6, class project II.aux"'.
+(./wk 5 project I.aux)
+\openout1 = `"wk 5 project I.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
@@ -554,36 +554,27 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into
 your preamble.
  on input line 7.
 
-PGFPlots: reading {artists.csv}
+PGFPlots: reading {robotslog.csv}
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 30.
+(Font)              <5> on input line 33.
+[1
 
-Overfull \hbox (98.87514pt too wide) in paragraph at lines 30--31
- [] 
- []
-
-
-LaTeX Warning: Float too large for page by 113.08601pt on input line 35.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./wk 6, class project II.aux) ) 
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./wk 5 project I.aux) ) 
 Here is how much of TeX's memory you used:
- 22142 strings out of 478994
- 599176 string characters out of 5858183
- 1025698 words of memory out of 5000000
- 39306 multiletter control sequences out of 15000+600000
+ 22141 strings out of 478994
+ 599074 string characters out of 5858183
+ 1003690 words of memory out of 5000000
+ 39305 multiletter control sequences out of 15000+600000
  403430 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,9n,117p,742b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb>
-Output written on "wk 6, class project II.pdf" (1 page, 34846 bytes).
+ 117i,9n,117p,734b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb>
+Output written on "wk 5 project I.pdf" (1 page, 25049 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
