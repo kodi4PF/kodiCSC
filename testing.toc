@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Interest Rate}{3}{}%
+\contentsline {section}{\numberline {2}Compound Interest}{4}{}%
+\contentsline {section}{\numberline {3}Continuous Compounding}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Continuous Compounding}{6}{}%
+\contentsline {section}{\numberline {4}Effective Rate}{7}{}%
+\contentsline {section}{\numberline {5}Annuity Plan}{8}{}%
+\contentsline {section}{\numberline {6}Loan Payment Formula}{9}{}%
+\contentsline {section}{\numberline {7}Exercises}{10}{}%
+\contentsline {subsection}{\numberline {7.1}Exercises contd.}{11}{}%
+\contentsline {subsection}{\numberline {7.2}Exercises contd.}{12}{}%
